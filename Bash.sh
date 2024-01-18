@@ -5,4 +5,6 @@ echo "Multiple commit"
 ifconfig
 ls
 pwd
+echo "2nd Commit"
+
 
